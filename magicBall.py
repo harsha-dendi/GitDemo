@@ -6,3 +6,5 @@ print(messages[random.randint(0, len(messages)-1)])
 
 def magicball()
     return a+b
+def magicball2()
+    return a+d
